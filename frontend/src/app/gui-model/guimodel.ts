@@ -6,7 +6,7 @@ export class GuiModel {
             "title": "DevOpsDemo FS2024",
             "formList": [
                 {
-                    "id": "OwnUserForm",
+                    "id": 'OwnUserForm',
                     "title": "NotImplemented",
                     "formFieldList": [
                         {
